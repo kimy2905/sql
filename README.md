@@ -4,9 +4,8 @@
 
 {This program uses a relational database to store information about books and their authors, showcasing CRUD (Create, Read, Update, Delete) operations and demonstrating a join query between two tables. It’s designed to improve my skills in database management and software development.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/yzOV1iDlmNA)
 
 # Relational Database
 
